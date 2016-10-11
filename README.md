@@ -2,4 +2,4 @@
 Tutorial repository
 
 blablabla 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
